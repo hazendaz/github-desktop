@@ -10,7 +10,7 @@
 
     <groupId>com.github.hazendaz.git</groupId>
     <artifactId>github-desktop</artifactId>
-    <version>1.4.1-SNAPSHOT</version>
+    <version>1.4.3-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>github-desktop</name>
