@@ -10,7 +10,7 @@
 
     <groupId>com.github.hazendaz.git</groupId>
     <artifactId>github-desktop</artifactId>
-    <version>1.4.3</version>
+    <version>1.4.4-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>github-desktop</name>
@@ -21,7 +21,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</developerConnection>
         <url>https://github.com/hazendaz/github-desktop</url>
-        <tag>github-desktop-1.4.3</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
