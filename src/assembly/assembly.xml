@@ -12,7 +12,7 @@
 
     <fileSets>
         <fileSet>
-            <directory>${project.basedir}/src/github-desktop</directory>
+            <directory>${project.build.directory}/github-desktop</directory>
             <outputDirectory />
             <includes>
                 <include>**/*</include>
