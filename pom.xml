@@ -46,6 +46,7 @@
                             <url>https://central.github.com/deployments/desktop/desktop/latest/win32</url>
                             <outputFileName>GitHubDesktopSetup.exe</outputFileName>
                             <outputDirectory>${project.build.directory}/github-desktop</outputDirectory>
+                            <skipCache>true</skipCache>
                         </configuration>
                     </execution>
                 </executions>
