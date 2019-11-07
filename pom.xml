@@ -24,6 +24,13 @@
         <url>https://github.com/hazendaz/github-desktop</url>
         <tag>HEAD</tag>
     </scm>
+    <distributionManagement>
+        <site>
+            <id>gh-pages</id>
+            <name>Github Desktop Distribution Wrapper GitHub Pages</name>
+            <url>git:ssh://git@github.com/hazendaz/github-desktop.git?gh-pages#</url>
+        </site>
+    </distributionManagement>
 
     <properties>
         <download-plugin.version>1.4.2</download-plugin.version>
