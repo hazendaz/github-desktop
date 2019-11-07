@@ -28,7 +28,7 @@
         <site>
             <id>gh-pages</id>
             <name>Github Desktop Distribution Wrapper GitHub Pages</name>
-            <url>git:ssh://git@github.com/hazendaz/github-desktop.git?gh-pages#</url>
+            <url>github:https://hazendaz.github.io/github-desktop/</url>
         </site>
     </distributionManagement>
 
