@@ -33,7 +33,7 @@
     </distributionManagement>
 
     <properties>
-        <download-plugin.version>1.4.2</download-plugin.version>
+        <download-plugin.version>1.5.0</download-plugin.version>
     </properties>
 
     <build>
