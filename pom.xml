@@ -17,6 +17,13 @@
     <name>github-desktop</name>
     <description>Distribution for Github Desktop</description>
     <url>https://hazendaz.github.io/github-desktop/</url>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <scm>
         <connection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</connection>
