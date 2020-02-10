@@ -44,7 +44,6 @@
     </properties>
 
     <build>
-        <finalName>github-desktop</finalName>
         <plugins>
             <!-- Download -->
             <plugin>
