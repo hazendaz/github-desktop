@@ -64,7 +64,7 @@
     </distributionManagement>
 
     <properties>
-        <download-plugin.version>1.5.1</download-plugin.version>
+        <download-plugin.version>1.6.0</download-plugin.version>
     </properties>
 
     <build>
