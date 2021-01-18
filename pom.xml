@@ -57,9 +57,9 @@
     </scm>
     <distributionManagement>
         <site>
-            <id>gh-pages</id>
+            <id>gh-pages-scm</id>
             <name>Github Desktop Distribution Wrapper GitHub Pages</name>
-            <url>github:https://hazendaz.github.io/github-desktop/</url>
+            <url>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</url>
         </site>
     </distributionManagement>
 
