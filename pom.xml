@@ -66,6 +66,9 @@
 
     <properties>
         <download-plugin.version>1.6.8</download-plugin.version>
+
+        <!-- Automatic Module Name -->
+        <module.name>com.github.hazendaz.github.desktop</module.name>
     </properties>
 
     <build>
