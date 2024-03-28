@@ -36,7 +36,7 @@
 
     <groupId>com.github.hazendaz.git</groupId>
     <artifactId>github-desktop</artifactId>
-    <version>3.3.12-SNAPSHOT</version>
+    <version>3.3.12</version>
     <packaging>pom</packaging>
 
     <name>github-desktop</name>
@@ -54,7 +54,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</developerConnection>
         <url>https://github.com/hazendaz/github-desktop</url>
-        <tag>HEAD</tag>
+        <tag>github-desktop-3.3.12</tag>
     </scm>
     <distributionManagement>
         <site>
@@ -71,7 +71,7 @@
         <module.name>com.github.hazendaz.github.desktop</module.name>
 
         <!-- Reproducible Builds -->
-        <project.build.outputTimestamp>1710318883</project.build.outputTimestamp>
+        <project.build.outputTimestamp>1711669114</project.build.outputTimestamp>
     </properties>
 
     <build>
