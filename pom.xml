@@ -54,7 +54,7 @@
         <connection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</developerConnection>
         <url>https://github.com/hazendaz/github-desktop</url>
-        <tag>github-desktop-3.3.12</tag>
+        <tag>HEAD</tag>
     </scm>
     <distributionManagement>
         <site>
