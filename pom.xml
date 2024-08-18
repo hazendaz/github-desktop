@@ -53,8 +53,8 @@
     <scm>
         <connection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/hazendaz/github-desktop.git</developerConnection>
-        <url>https://github.com/hazendaz/github-desktop</url>
         <tag>HEAD</tag>
+        <url>https://github.com/hazendaz/github-desktop</url>
     </scm>
     <distributionManagement>
         <site>
@@ -108,10 +108,10 @@
                 <executions>
                     <execution>
                         <id>make-assembly</id>
-                        <phase>package</phase>
                         <goals>
                             <goal>single</goal>
                         </goals>
+                        <phase>package</phase>
                     </execution>
                 </executions>
             </plugin>
