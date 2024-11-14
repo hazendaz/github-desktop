@@ -65,7 +65,7 @@
     </distributionManagement>
 
     <properties>
-        <download-plugin.version>1.11.2</download-plugin.version>
+        <download-plugin.version>1.11.3</download-plugin.version>
 
         <!-- Automatic Module Name -->
         <module.name>com.github.hazendaz.github.desktop</module.name>
