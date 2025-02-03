@@ -65,7 +65,7 @@
     </distributionManagement>
 
     <properties>
-        <download-plugin.version>1.13.0</download-plugin.version>
+        <download-plugin.version>2.0.0</download-plugin.version>
 
         <!-- Automatic Module Name -->
         <module.name>com.github.hazendaz.github.desktop</module.name>
@@ -78,7 +78,7 @@
         <plugins>
             <!-- Download -->
             <plugin>
-                <groupId>com.googlecode.maven-download-plugin</groupId>
+                <groupId>io.github.download-maven-plugin</groupId>
                 <artifactId>download-maven-plugin</artifactId>
                 <version>${download-plugin.version}</version>
                 <executions>
