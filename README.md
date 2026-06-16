@@ -2,7 +2,8 @@ Github Desktop Distro
 ---------------------
 
 [![Java CI](https://github.com/hazendaz/github-desktop/actions/workflows/ci.yaml/badge.svg)](https://github.com/hazendaz/github-desktop/actions/ci.yaml)
-[![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Maven Central](https://img.shields.io/maven-central/v/com.github.hazendaz.git/github-desktop)](https://central.sonatype.com/artifact/com.github.hazendaz.git/github-desktop)
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ![hazendaz](src/site/resources/images/hazendaz-banner.jpg)
 
