@@ -18,7 +18,7 @@
 
     <groupId>com.github.hazendaz.git</groupId>
     <artifactId>github-desktop</artifactId>
-    <version>3.5.13-SNAPSHOT</version>
+    <version>3.6.1-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>github-desktop</name>
