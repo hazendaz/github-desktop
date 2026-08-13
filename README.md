@@ -17,3 +17,5 @@ For more information on github-desktop, please see [github-desktop](https://gith
 
 # Note
 
+Due to restrictions in sonatype, distribution through central is no longer acceptable.  However, github desktop is distributing these in immutable format to github now which
+results in same purpose therefore this repo should be now considered deprecated.
